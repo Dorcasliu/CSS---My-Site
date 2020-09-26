@@ -1,0 +1,116 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin: 120px;
+}
+
+h1{
+  color: #afb82c;
+  margin: 20px auto 0 auto;
+  font-size: 90px;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #afb82c;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 0;
+}
+h3{
+  color: #afb82c;
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width:35%;
+}
+table{
+  margin: 0 auto;
+}
+
+a{
+  margin:10px 20px;
+  text-decoration: none;
+}
+
+.image-profile{
+  margin:90px;
+}
+
+.top-container{
+}
+
+.btn {
+  margin-top: 50px;
+  background: #d3d934;
+  background-image: -webkit-linear-gradient(top, #d3d934, #7b8020);
+  background-image: -moz-linear-gradient(top, #d3d934, #7b8020);
+  background-image: -ms-linear-gradient(top, #d3d934, #7b8020);
+  background-image: -o-linear-gradient(top, #d3d934, #7b8020);
+  background-image: linear-gradient(to bottom, #d3d934, #7b8020);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 11px 23px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #fc8f3c;
+  background-image: -webkit-linear-gradient(top, #fc8f3c, #d97634);
+  background-image: -moz-linear-gradient(top, #fc8f3c, #d97634);
+  background-image: -ms-linear-gradient(top, #fc8f3c, #d97634);
+  background-image: -o-linear-gradient(top, #fc8f3c, #d97634);
+  background-image: linear-gradient(to bottom, #fc8f3c, #d97634);
+  text-decoration: none;
+}
+
+.middle-container{
+  margin: 40px auto 60px auto;
+}
+
+.bottom-container{
+  margin: 90px auto 0 auto;
+}
+
+.experience-row{
+  width: 80%;
+  text-align: left;
+  margin: 90px;
+}
+
+.text-skill{
+  line-height: 1.5;
+}
+
+.image-skill-left{
+  width:25%;
+  float: left;
+  margin-right: 15px;
+}
+
+.image-skill-right{
+  width:28%;
+  float: right;
+  margin-left: 75px;
+}
+
+.star-skill{
+  text-align: center;
+}
+
+.copy-right{
+  font-size: 0.85rem;
+  padding: 15px 0;
+}
